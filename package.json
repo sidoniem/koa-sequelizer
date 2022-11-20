@@ -1,0 +1,23 @@
+{
+  "name": "koa-sequelizer",
+  "version": "1.0.0",
+  "description": "learning koa and sequelizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sidonie Moulart",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.8",
+    "koa": "^2.13.4",
+    "koa-router": "^12.0.0",
+    "pg": "^8.8.0",
+    "sequelize-cli": "^6.5.2",
+    "sequelizer": "^1.1.4"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "nodemon": "^2.0.20"
+  }
+}
